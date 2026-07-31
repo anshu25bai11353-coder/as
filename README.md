@@ -49,3 +49,5 @@ Our model identified the most critical factors affecting yield:
 | Requires constant retraining. | Pre-trained distilled weights stay consistent. |
 
 > **💡 Verdict:** FarmIQ Pro delivers **the intelligence of a trained AI model** with the **speed and transparency** required for real-world agricultural adoption. This is the future of Agri-Tech—**AI, simplified.**
+
+video : https://drive.google.com/file/d/1s80s4XyvzDQB7keGCaW6ZQNk4bdtqnrH/view
