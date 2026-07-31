@@ -543,4 +543,4 @@ else:
     """, unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🌱 FarmIQ Pro | Built for Hackathon | 0 ML Models, 100% Domain-Driven Logic")
+st.caption("🌱 FarmIQ Pro | Anshu Sharma VIT Bhopal")
