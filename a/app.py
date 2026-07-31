@@ -120,7 +120,7 @@ with st.sidebar:
 
 # ---------- MAIN DASHBOARD ----------
 st.title("🌾 Smart Agri Advisor Pro")
-st.markdown("**Precision agriculture insights — powered by rule-based expert systems**")
+st.markdown("**Precision agriculture insights — powered by expert systems**")
 st.markdown('<div class="custom-divider"></div>', unsafe_allow_html=True)
 
 if analyze_btn or 'last_run' in st.session_state:
